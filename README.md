@@ -1,4 +1,4 @@
-📱 Basic Calculator App – MIT App Inventor
+📱 Basic Calculator App – MIT App Inventor!
 This repository contains the APK file of a simple Basic Calculator App that I built using MIT App Inventor.
 The app performs essential arithmetic operations such as:
 ➕ Addition
